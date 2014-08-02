@@ -1,0 +1,15 @@
+{
+    "name": "welcome",
+    "version": "0.0.0",
+    "description": "",
+    "main": "start.js",
+    "scripts": {
+        "install" : "node ./node_modules/rapid-core/init.js"
+    },
+    "author": "",
+    "dependencies":{
+        "rapid-core" : "*",
+        "rapid-httpserver" : "*"
+    },
+    "license": "MIT"
+}
